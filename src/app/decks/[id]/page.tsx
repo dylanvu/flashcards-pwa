@@ -1,0 +1,1 @@
+// page to view all the cards in a deck
